@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border-spacing: 0cm;
+    padding-right: 0in;
+    padding-left: 0in;
+}
+
+body{
+    background-color: #ffff00;
+}
+
+.nospace{
+   position: absolute;
+   bottom: 0px;
+}
+
+.top{
+    position: absolute;
+    top: 220px;
+}
+
+.words{ 
+    margin-top: 7vh;
+    font-size: 33px;
+    font-weight: 100;
+    text-align: center; 
+    font-family: 'Shippori Mincho', serif;
+}
+
+.word1{ 
+    margin-top: 4vh;
+    font-size: 8px;
+    text-align: center; 
+    font-family: 'Shippori Mincho', serif;
+}
+
+.top-right{
+    position:absolute;
+    top:220px;    
+}
+
+.top-right-header{
+    position:absolute;
+    top: 6px;
+    left : 1280px;
+}
+
+.top-right-text{
+    position: absolute;
+    color: white;
+    top:220px;
+    right: 0px;
+}
+
+.container{
+    position: absolute;
+    top: 220px;
+    left : 660px;
+}
+
+.text-block{
+    position: absolute;
+    bottom: 145px;
+    left: 120px;
+    color: white;
+    font-size: 30px ;
+    right: 0px;
+}
+
+.text-block-1{
+    position: absolute;
+    bottom: -90.8px;
+    left: 10px;
+    color: white;
+    font-size: 15px ;
+   
+}
+
+.word3{
+    position: absolute;
+    bottom: -31.8px;
+    left: 80px;
+    
+}
+
+.word4{
+    position: absolute;
+    bottom: -30.8px;
+    left: 174px;
+}
+
+.text-word-3{
+    position: absolute;
+    bottom: -24.9px;
+    left: 95px;
+    color: rgb(173, 173, 173);
+    font-size: 10px ;
+}
+
+.text-word-4{
+    position: absolute;
+    bottom: -24.9px;
+    left: 190px;
+    color: rgb(173, 173, 173);
+    font-size: 10px ;
+}
